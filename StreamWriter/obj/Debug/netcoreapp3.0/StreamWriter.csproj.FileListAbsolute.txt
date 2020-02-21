@@ -1,0 +1,11 @@
+D:\Documentos\C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.0\StreamWriter.csprojAssemblyReference.cache
+D:\Documentos\C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.0\StreamWriter.AssemblyInfoInputs.cache
+D:\Documentos\C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.0\StreamWriter.AssemblyInfo.cs
+D:\Documentos\C#\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.0\StreamWriter.exe
+D:\Documentos\C#\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.0\StreamWriter.deps.json
+D:\Documentos\C#\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.0\StreamWriter.runtimeconfig.json
+D:\Documentos\C#\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.0\StreamWriter.runtimeconfig.dev.json
+D:\Documentos\C#\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.0\StreamWriter.dll
+D:\Documentos\C#\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.0\StreamWriter.pdb
+D:\Documentos\C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.0\StreamWriter.dll
+D:\Documentos\C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.0\StreamWriter.pdb
